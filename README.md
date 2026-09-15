@@ -61,7 +61,7 @@ Each task contains:
 ## 📁 Project Structure
 
 ```text
-Employee_Task_Mgmt/
+Employee_Task_Mgmt/frontend/
 │
 ├── src/
 │   ├── components/
@@ -78,5 +78,5 @@ Employee_Task_Mgmt/
 │
 ├── public/
 ├── package.json
-├── package-lock.json
-└── README.md
+└── package-lock.json
+
